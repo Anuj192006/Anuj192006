@@ -51,19 +51,6 @@
 
 ---
 
-<h1>📊 GitHub Statistics</h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anuj192006&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj192006&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anuj192006&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 <h1>📈 Contribution Graph</h1>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuj192006&theme=tokyo-night&hide_border=true" />
