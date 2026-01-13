@@ -59,7 +59,7 @@
 
 <h1>🧠 Most Used Languages</h1>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj192006&layout=compact&theme=tokyonight&hide_border=true" />
+ <img src="https://skillicons.dev/icons?i=js&theme=dark" />
 
 ---
 
