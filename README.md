@@ -38,8 +38,7 @@
 - 🧠 Learning **ML fundamentals + Math intuition**
 - 💻 **MERN Stack Developer**
 - 🧩 Practicing **Python DSA**
-- 📘 Building **lecture-wise ML notes (CampusX 100 Days ML)**  
-- 🚀 Strong believer in **long-term consistency**
+- 📘 Building **ML notes on this Github**  
 
 ---
 
